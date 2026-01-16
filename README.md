@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mfdresses.in, icsjava.online<br>I have worked on thenextwork.in<br>🌱 I’m currently learning css and js<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on mfdresses.in, icsjava.online<br>✨ I have worked on thenextwork.in<br>🌱 I’m currently learning css and js<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
